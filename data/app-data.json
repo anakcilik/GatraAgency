@@ -1,0 +1,37 @@
+{
+  "business": {"name":"AI Creative Agency","brand":"GatraAgency","tagline":"Konten UGC Profesional, Harga UMKM, Tenaga AI.","summary":"Agensi kreatif dan digital marketing berbasis AI untuk membantu UMKM membuat konten siap posting dari brief sampai final delivery.","whatsapp":"6281234567890","email":"hello@gatraagency.local","instagram":"@gatraagency"},
+  "services": [
+    {"name":"Jasa Kelola Sosmed","description":"Poster, copywriting, konsep konten, hashtag, dan jadwal posting untuk UMKM."},
+    {"name":"Video UGC Manusia","description":"Video drama/review dengan talent manusia, script, editing final, caption, dan hashtag."},
+    {"name":"UGC AI Avatar","description":"Video berbasis AI avatar dan voiceover untuk produksi cepat dan hemat biaya."},
+    {"name":"Website & Landing Page","description":"Company profile, toko sederhana, tombol order WhatsApp, SEO dasar, dan dashboard order sesuai paket."}
+  ],
+  "packages": [
+    {"category":"Sosmed","name":"Paket Janaka","price":157050,"features":["15 design premium","Konsep sosmed","Copywriting","100% original"]},
+    {"category":"Sosmed","name":"Paket Nakula","price":292050,"features":["21 design premium","10 hashtag","5 story IG","Admin posting"]},
+    {"category":"Sosmed","name":"Paket Sadewa","price":562050,"features":["52 design premium","20 hashtag","10 story IG","Revisi minor"]},
+    {"category":"UGC AI","name":"Paket UGC AI A","price":103600,"features":["3 video 10-60 detik","AI avatar","Voiceover","Caption + hashtag"]},
+    {"category":"UGC Manusia","name":"Paket Drama A","price":259000,"features":["3 video drama","Talent manusia","Konsep & script","1x revisi minor"]},
+    {"category":"Website","name":"Paket Cilik","price":244500,"features":["Domain .my.id/.xyz","Copywriting","7 produk","Tombol order WA"]}
+  ],
+  "portfolio": [
+    {"client":"UMKM Kuliner","project":"Konten Launching Menu","result":"12 konten siap posting dan 1 kalender kampanye."},
+    {"client":"Fashion Seller","project":"UGC AI Product Review","result":"10 video review pendek untuk TikTok dan Reels."},
+    {"client":"Skincare Lokal","project":"Landing Page Promo","result":"Halaman order WhatsApp dengan copywriting penawaran."}
+  ],
+  "projects": [
+    {"id":"PRJ-1001","client":"PT ABC Indonesia","name":"Social Media Management September","status":"IN_PROGRESS","progress":72,"deadline":"2026-09-30","budget":562050},
+    {"id":"PRJ-1002","client":"PT ABC Indonesia","name":"UGC AI Product Batch","status":"CLIENT_REVIEW","progress":88,"deadline":"2026-09-27","budget":391600},
+    {"id":"PRJ-1003","client":"Rasa Lokal","name":"Landing Page Promo","status":"PLANNING","progress":24,"deadline":"2026-10-05","budget":474500}
+  ],
+  "tasks": [
+    {"id":"TSK-1029","project":"PRJ-1001","title":"Create 5 Instagram Posts","owner":"Staff Creative","status":"IN_PROGRESS","progress":60,"deadline":"2026-09-24"},
+    {"id":"TSK-1030","project":"PRJ-1001","title":"Caption and Hashtag Research","owner":"Social Media Strategist","status":"COMPLETED","progress":100,"deadline":"2026-09-23"},
+    {"id":"TSK-1031","project":"PRJ-1002","title":"Submit AI UGC Preview","owner":"Staff Creative","status":"IN_REVIEW","progress":90,"deadline":"2026-09-25"}
+  ],
+  "messages": [
+    {"from":"Client","text":"Apakah desain feed minggu depan sudah selesai?","time":"2026-09-22 09:30"},
+    {"from":"Admin","text":"Sudah, kami sedang melakukan final review.","time":"2026-09-22 09:45"}
+  ],
+  "metrics": {"clients":128,"activeProjects":37,"completedProjects":91,"leads":24,"revenue":24500000,"outstanding":3750000,"expenses":6200000}
+}
