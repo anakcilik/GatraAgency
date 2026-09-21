@@ -1,20 +1,22 @@
-# GatraAgency
+﻿# AI Creative Agency Company Profile
 
-MVP lokal untuk AI Creative Agency: public website, login demo multi-role, dashboard admin/client/staff/investor, project progress, pricing, portfolio, audit log demo, dan dokumentasi arsitektur.
+Website company profile statis untuk AI Creative Agency.
 
 ## Jalankan
 
-1. Start Apache di XAMPP.
-2. Buka `http://localhost/GatraAgency/`.
-3. Login demo dengan password `demo12345`.
+Buka melalui XAMPP:
 
-## Akun demo
+`http://localhost/GatraAgency/`
 
-- `superadmin@gatra.local`
-- `admin@gatra.local`
-- `pm@gatra.local`
-- `staff@gatra.local`
-- `client@gatra.local`
-- `investor@gatra.local`
+## Isi website
 
-Versi ini adalah fondasi lokal. Production sebaiknya memakai Next.js, TypeScript, PostgreSQL, Prisma, secure auth, RBAC server-side, audit log, dan environment secret.
+- Hero company profile
+- Tentang agency
+- Value proposition
+- Layanan
+- Paket harga awal
+- Workflow produksi
+- Target pasar
+- Kontak WhatsApp
+
+Tidak ada dashboard, login, database, atau sistem aplikasi. Ini sengaja dibuat hanya sebagai website company profile sesuai instruksi terbaru di `system promt.txt`.
